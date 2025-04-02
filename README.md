@@ -12,3 +12,7 @@ npm run dev
 
 npm run build
 ```
+
+# Resources:
+
+[frog](https://sketchfab.com/3d-models/frog-jumping-fd0821c081b34c33807da145941725e8)
