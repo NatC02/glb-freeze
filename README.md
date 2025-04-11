@@ -1,8 +1,12 @@
 # glb-freeze
 
-## Freeze animation
+<div align="center">
 
-A short demo to freeze an animation of a glb object
+<img src="./readme.gif" alt="clipping-head" style="width: 66.66vw; max-width: 800px; margin: 0 auto; display: block;">
+
+  <h3 align="center">A short demo to freeze an animation of a glb object. </h3>
+
+</div>
 
 ## Installation
 ```
